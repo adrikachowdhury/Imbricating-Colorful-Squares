@@ -22,10 +22,10 @@ The program generates a series of **nested colorful squares**, giving the illusi
 - `create_rectangle(x1, y1, x2, y2, color)`: Draws a rectangle using the given coordinates and fill color
 - Random color generation using Python’s `random` module
 - Manual spacing via increasing margins
-- 
+
 ## ▶️ How to Run
 
-Make sure you have the project code and access to the **Code In Place IDE** (or the course-provided environment that includes the `graphics.py` library).
+Make sure you have the project code (`project.py`) and access to the **Code In Place IDE** (or the course-provided environment that includes the `graphics.py` library).
 
 ## 🎯 Try It Yourself
 
