@@ -8,7 +8,7 @@ The program generates a series of **nested colorful squares**, giving the illusi
 - Application of **random color selection** from a defined palette
 - **Geometric alignment** using precise coordinate manipulation
 
---
+---
 
 ## 🔧 How it Works
 - A canvas of size `400x400` pixels is created.
