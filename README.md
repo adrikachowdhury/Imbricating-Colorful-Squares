@@ -1,4 +1,4 @@
-# Imbricated Colorful Squares 🎨
+# 🎨 Imbricating Colorful Squares
 
 This project was created as my **final graphics project** for the [Code In Place](https://codeinplace.stanford.edu/) course, offered by Stanford University. It was built using **Python** and the course's custom `graphics.py` library.
 
